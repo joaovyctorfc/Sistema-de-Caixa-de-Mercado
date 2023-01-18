@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1655135688 source:c:\users\vander\documents\trabalho\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1654923797 c:\users\vander\documents\trabalho\trabalho\funcoes.h
+
+1654925446 source:c:\users\vander\documents\trabalho\trabalho\funcoes.c
+	"funcoes.h"
+
